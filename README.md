@@ -4,7 +4,8 @@
  
 
 van a extensiones y buscan "ir" del listado eligen ese primero que ven makerbit-ir-receiver
-![1b86bb84-4abd-4caa-8f84-ce84f074616e](https://user-images.githubusercontent.com/80068974/110122740-c185ac80-7d9e-11eb-9238-e79dd0975c2e.jpg)
+![4a127490-0923-4163-b8a9-de74141c150c](https://user-images.githubusercontent.com/80068974/110124707-30fc9b80-7da1-11eb-8bec-4fb5d493030b.jpg)
+
 
 eso agrega esta opción
 ![de7b765f-9b6e-4530-bb5f-c8d2428ccabc](https://user-images.githubusercontent.com/80068974/110122904-00b3fd80-7d9f-11eb-94aa-9a3ddec56a94.jpg)
