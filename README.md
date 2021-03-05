@@ -15,7 +15,7 @@ ejecutan esto, cuando apuntan su control remoto y aprietan cualquier botón les 
 ![fc8d888e-35cf-47cb-b533-62d2afffe150](https://user-images.githubusercontent.com/80068974/110122956-1295a080-7d9f-11eb-921f-5a542e98e774.jpg)
 
 
-y luego que ya saben el valor de cada tecla, los comparan en el bucle de acciones haciendo lo que sea, mover los servos, los motores o cambiando las luces de color
+y luego que ya saben el valor de cada tecla, los comparan en el bucle de acciones haciendo lo que sea, mover los servos, los motores o cambiando las luces de colores
 ![144270b1-688c-442a-9a97-a397d600a3cb](https://user-images.githubusercontent.com/80068974/110123009-23dead00-7d9f-11eb-8dd8-d79f624ed9b2.jpg)
 
 
